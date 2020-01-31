@@ -10,7 +10,7 @@ import "github.com/applejohnny/go-xgboost"
 
 ## Usage
 
-This library is meant for running predictions against a pre-trained XGBoost model. Limited training related functionality is implemented under [core](https://github.com/Applifier/go-xgboost/blob/master/core) but training the model in python or using the xgboost cli is encouraged. 
+This library is meant for running predictions against a pre-trained XGBoost model. Limited training related functionality is implemented under [core](https://github.com/applejohnny/go-xgboost/blob/master/core) but training the model in python or using the xgboost cli is encouraged. 
 
 ```go
 
