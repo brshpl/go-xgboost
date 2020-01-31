@@ -1,7 +1,7 @@
 package core
 
 /*
-#cgo LDFLAGS: -lxgboost
+#cgo LDFLAGS: -lxgboost -lm
 #include <xgboost/c_api.h>
 */
 import "C"
