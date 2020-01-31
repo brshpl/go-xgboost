@@ -1,14 +1,14 @@
 WORK IN PROGRESS... USE AT OWN RISK :-)
 
-[![Build Status](https://travis-ci.org/Applifier/go-xgboost.svg?branch=master)](https://travis-ci.org/Applifier/go-xgboost)
-[![GoDoc](https://godoc.org/github.com/Applifier/go-xgboost?status.svg)](http://godoc.org/github.com/Applifier/go-xgboost)
+[![Build Status](https://travis-ci.org/Applifier/go-xgboost.svg?branch=master)](https://travis-ci.org/applejohnny/go-xgboost)
+[![GoDoc](https://godoc.org/github.com/Applifier/go-xgboost?status.svg)](http://godoc.org/github.com/applejohnny/go-xgboost)
 
 # go-xgboost
 
 Go bindings for [XGBoost](https://github.com/dmlc/xgboost)
 
 ```go
-import "github.com/Applifier/go-xgboost"
+import "github.com/applejohnny/go-xgboost"
 ```
 
 ## Usage
@@ -29,4 +29,4 @@ fmt.Printf("Results: %+v\n", res)
 
 ## License
 
-[MIT](https://github.com/Applifier/go-xgboost/blob/master/LICENSE)
+[MIT](https://github.com/applejohnny/go-xgboost/blob/master/LICENSE)
