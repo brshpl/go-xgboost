@@ -5,7 +5,7 @@ WORK IN PROGRESS... USE AT OWN RISK :-)
 Go bindings for [XGBoost](https://github.com/dmlc/xgboost)
 
 ```go
-import "github.com/applejohnny/go-xgboost"
+import "github.com/brshpl/go-xgboost"
 ```
 
 ## Usage

@@ -9,7 +9,7 @@ import (
 	"path"
 	"testing"
 
-	"github.com/applejohnny/go-xgboost/core"
+	"github.com/brshpl/go-xgboost/core"
 )
 
 func TestXGBoost(t *testing.T) {

@@ -3,7 +3,7 @@
 # Core package
 
 ```go
-import "github.com/Applifier/go-xgboost/core"
+import "github.com/brshpl/go-xgboost/core"
 ```
 
 ## Example

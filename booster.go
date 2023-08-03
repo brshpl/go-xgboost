@@ -5,7 +5,7 @@ import (
 	"errors"
 	"runtime"
 
-	"github.com/applejohnny/go-xgboost/core"
+	"github.com/brshpl/go-xgboost/core"
 )
 
 // Matrix interface for 2D matrix
