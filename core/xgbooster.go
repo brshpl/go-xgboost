@@ -67,7 +67,6 @@ func (booster *XGBooster) Predict(mat *XGDMatrix, optionMask int, ntreeLimit uin
 		mat.handle,
 		C.int(optionMask),
 		C.uint(ntreeLimit),
-		C.int(0),
 		&outLen,
 		&outResult,
 	)
